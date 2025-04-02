@@ -1,0 +1,14 @@
+Compressed Dataset:
+Transaction 1: D C E F G
+Transaction 2: D A E F G
+Transaction 3: D B C E F G
+Transaction 4: D B A C E F G
+
+Mapping:
+A: 6
+B: 7
+C: 5
+D: 4
+E: 2
+F: 1
+G: 3
